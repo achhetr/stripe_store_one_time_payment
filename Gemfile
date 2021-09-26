@@ -31,6 +31,8 @@ gem 'bootsnap', '>= 1.4.4', require: false
 # Custom Gem <<~CUSTOM_GEM
 gem 'devise'
 gem 'bcrypt'
+gem 'stripe'
+gem 'pay'
 # CUSTOM_GEM
 
 group :development, :test do
